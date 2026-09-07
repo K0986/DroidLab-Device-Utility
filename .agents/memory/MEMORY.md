@@ -1,0 +1,1 @@
+- [Android build toolchain](android-build-toolchain.md) — use the Gradle wrapper and a standard JDK/SDK; GraalVM can break AGP’s jlink test path.

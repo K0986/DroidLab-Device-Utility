@@ -1,0 +1,6 @@
+{
+  "name": "DroidLab",
+  "description": "Advanced Android device information, diagnostics, monitoring, and utility toolkit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
